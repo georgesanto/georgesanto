@@ -12,17 +12,15 @@ My name is George Santos. I work as a SRE/DevOps at Zup Innovation.
 
 ### Languages & Tools 🛠  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&color=green)&nbsp;  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=gray)&nbsp;![Podman](https://img.shields.io/badge/-Podman-05122A?style=flat&color=gray)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=gray)&nbsp;![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&color=gray)&nbsp;![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&color=gray)&nbsp;![AWSCloudFormation](https://img.shields.io/badge/-AWSCloudFormation-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;  
-![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&color=blue)&nbsp;![OracleCloud](https://img.shields.io/badge/-OracleCloud-05122A?style=flat&color=blue)&nbsp;![IBMCloud](https://img.shields.io/badge/-IBMCloud-05122A?style=flat&color=blue)&nbsp;![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&color=blue)&nbsp;  
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=gray)&nbsp;![Podman](https://img.shields.io/badge/-Podman-05122A?style=flat&color=gray)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=gray)&nbsp;![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&color=gray)&nbsp;![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&color=gray)&nbsp;![AWSCloudFormation](https://img.shields.io/badge/-AWSCloudFormation-05122A?style=flat&color=gray)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;  
+![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&color=blue)&nbsp;![Oracle Cloud](https://img.shields.io/badge/-OracleCloud-05122A?style=flat&color=blue)&nbsp;![IBM Cloud](https://img.shields.io/badge/-IBMCloud-05122A?style=flat&color=blue)&nbsp;![Google Cloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&color=blue)&nbsp;  
 
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-
-langs/?username=georgesanto&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgesanto&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-
-stats.vercel.app/api/?username=georgesanto&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=georgesanto&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=georgesanto&hide_border=true)
 
