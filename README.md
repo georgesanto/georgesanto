@@ -10,8 +10,6 @@ A little about me:
 - I’m currently working with **AWS** and **Automation**.
 - I’m currently learning everything related to **SRE** and **DevOps**.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=georgesanto&repo=georgesanto&countColorcountColor)
-
 ### ⚡ Skills:
 - ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Automation](https://img.shields.io/badge/-Automation-green) ![Network](https://img.shields.io/badge/-Network-brightgreen?&logo=Network&logoColor=FFFFFF) ![Security](https://img.shields.io/badge/-Security-blue)
 
@@ -31,7 +29,7 @@ A little about me:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/george-santos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://twitter.com/georgesanto"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a><a href="https://www.instagram.com/georgesant0/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> <a href="https://medium.com/@georgesantos169"><img 
+<a href="https://www.linkedin.com/in/george-santos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://twitter.com/georgesanto"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a> <a href="https://www.instagram.com/georgesant0/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> <a href="https://medium.com/@georgesantos169"><img 
 src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a> 
 
 </p>
