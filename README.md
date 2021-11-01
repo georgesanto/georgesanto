@@ -2,7 +2,7 @@
 	✅ Welcome to my GitHub 🚀
 </h1>
 
-My name is **George Santos**. I work as a **SRE/DevOps** at **Zup Innovation**.
+My name is **George Santos**. I work as a **SRE/DevOps**.
 
 A little about me:
 
