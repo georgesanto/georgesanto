@@ -2,13 +2,13 @@
 	✅ Welcome to my GitHub 🚀
 </h1>
 
-My name is **George Santos**. I work as a **SRE/DevOps**.
+My name is **George Santos**. I work as a **Cloud Architect Specialist**.
 
 A little about me:
 
 - Fortaleza - CE, **Brasil**.
 - I’m currently working with **AWS** and **Automation**.
-- I’m currently learning everything related to **SRE** and **DevOps**.
+- I’m currently learning everything related to **Cloud Architect** and **DevOps**.
 
 ### ⚡ Skills:
 - ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Automation](https://img.shields.io/badge/-Automation-green) ![Network](https://img.shields.io/badge/-Network-brightgreen?&logo=Network&logoColor=FFFFFF) ![Security](https://img.shields.io/badge/-Security-blue)
