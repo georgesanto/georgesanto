@@ -30,4 +30,4 @@ A little about me:
 
 ![Twitter](https://twitter.com/georgesanto)(<https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white>)
 ![Instagram](https://www.instagram.com/georgesant0)(<https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white>)
-![Medium](<https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white>)(<https://medium.com/@georgesantos169>)
+![Medium](<https://medium.com/@georgesantos169><https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white>)
